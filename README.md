@@ -1,37 +1,11 @@
-![MasterHead](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif)
-
 <h1 align="center">Hi 👋, I'm Harith Hadaragama</h1>
-<h3 align="center">Full-Stack Software Engineer & Project Lead</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/333243/screenshots/5343222/media/229510ceedfb1fa4df7ff171b3e58f03.png?compress=1&resize=400x300">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=harithhp&label=Profile%20views&color=0e75b6&style=flat" alt="harithhp" /> 
-</p>
+<h3 align="center">Full-Stack Software Engineer</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-Motivated **Full-Stack Software Engineer** and **Project Lead** with **3+ years of experience** specializing in large-scale application development. Expert in the **.NET** and **Next.js/React** stacks, with a proven track record in leading end-to-end delivery of complex **ERP, HCM, and eCommerce solutions**. 
-
-🎓 **BSc (Hons) in Computing** from Coventry University, United Kingdom (Upper Second-Class Honors - 3.6 GPA)
-
-🚀 Currently working as **Software Engineer** at **App360 Pvt Ltd**, leading cross-functional agile teams and delivering enterprise-grade solutions.
-
----
-
-## 💼 Professional Experience
-
-### Software Engineer | App360 Pvt Ltd
-**Aug 2023 - Present**
-
-- Engineered scalable, high-performance Web APIs for critical business systems (POS, ERP, HRM, CRM) using **ASP.NET Core (.NET 6-8)**
-- Developed dynamic and responsive UIs using **React** and **Next.js**
-- Optimized database architecture with advanced SQL stored procedures, Entity Framework Core, and ADO.NET
-- Led cross-functional agile teams through the entire SDLC
-- Spearheaded mobile app development achieving **10,000+ downloads** on Google Play Store and Apple App Store
-- Acted as key technical representative in client meetings with local and international stakeholders
+Software Engineer with **more than 3 years of experience** in full-stack development, specializing in building scalable web applications and enterprise solutions.
 
 ---
 
@@ -80,27 +54,6 @@ Motivated **Full-Stack Software Engineer** and **Project Lead** with **3+ years 
 
 ---
 
-## 🚀 Key Projects
-
-### **Point-of-Sale (POS) System**
-**Aug 2025 - Present**
-- Full-stack POS and inventory management system
-- **Tech Stack:** ASP.NET (ADO.NET), Next.js, React.js, Redux, Tailwind CSS, MySQL, JWT Authentication
-- Features: Sales transactions, inventory control (GRN, returns, adjustments), supplier/customer management
-
-### **Tour Company Management System**
-- Comprehensive content-managed ecosystem for tour operations
-- **Tech Stack:** ASP.NET (Entity Framework), Next.js, React.js, Redux, Tailwind CSS, MySQL
-- Streamlined customer bookings to internal administration with custom SOP
-
-### **Trypophobia Trigger Detection System**
-**Oct 2024 - Apr 2025**
-- Full-stack Windows application with AI microservices
-- **Tech Stack:** .NET 6, C# (WinForms), ASP.NET Core Web API, Python, TensorFlow, Keras, Flask, OpenCV, MySQL
-- Deep learning-based UI/UX design analysis tool
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -130,20 +83,4 @@ Motivated **Full-Stack Software Engineer** and **Project Lead** with **3+ years 
 
 ---
 
-## 💬 Let's Talk
-
-- 💼 **Open to:** Full-time opportunities, Freelance projects, Technical consulting
-- 📧 **Email:** hphadaragama@gmail.com
-- 📱 **Phone:** +94 77 823 3252
-- 📍 **Location:** Rendapola, Dodangoda, Kalutara, Sri Lanka
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harithhp&theme=tokyo-night" alt="harithhp" />
-</p>
-
----
-
-<p align="center">⭐️ From <a href="https://github.com/harithhp">harithhp</a></p>
-
+<p align="center">📧 <a href="mailto:hphadaragama@gmail.com">hphadaragama@gmail.com</a></p>
