@@ -1,40 +1,42 @@
-<h1 align="center">Harith Hadaragama</h1>
-<p align="center">
-  <strong>Full-Stack Software Engineer</strong><br/>
-  .NET · ASP.NET Core · Next.js · React
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:hphadaragama@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/harithhp">LinkedIn</a> ·
-  <a href="https://stackoverflow.com/users/19724898">Stack Overflow</a>
-</p>
+  # Harith Hadaragama
 
----
+  ### **Full-Stack Software Engineer**
+  
+  Building scalable enterprise systems, modern web apps & high-performance solutions.
 
-### About
+  [![Email](https://img.shields.io/badge/Email-hphadaragama%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hphadaragama@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-harithhp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harithhp)
 
-Software engineer with **3+ years** building scalable web apps and enterprise systems — including **strong banking-domain experience**.
-
-I specialize in **.NET backends** and **Next.js / React frontends**.
-
-### About
-Full-stack engineer and project lead with 3+ years building large-scale business systems on ASP.NET Core (.NET 6–10), ADO.NET / EF Core, Next.js, and React. Delivers production POS, ERP, HRM, CRM, and banking platforms (including WPF and WinForum), with performance-focused SQL and end-to-end agile leadership for local and international clients. Prior work on Power Apps and SAP S/4HANA ERP conversion; BSc (Hons) Computing, Coventry University (Upper Second-Class, 3.6 GPA).
-
+</div>
 
 ---
 
-### Focus
-| | |
-|---|---|
-| **Backend** | C#, ASP.NET Core, ADO.NET, Entity Framework Core, JWT, REST APIs, Node.js |
-| **Frontend** | TypeScript, Next.js, React, Redux, Tailwind CSS, Windows Forms |
-| **Databases** | MySQL, Microsoft SQL Server, PostgreSQL, MongoDB |
-| **Domains** | POS (onPOS360), ERP, HRM/HCM, CRM, banking & enterprise systems |
-| **Practices** | Agile delivery, code reviews, SRS/user stories, client collaboration |
-| **Tools** | Git, GitHub, Bitbucket, Jira, ClickUp, Postman, Figma, Visual Studio |
+### **About Me**
 
+Full-Stack Software Engineer and Technical Project Lead with **3+ years of experience** architecting and delivering large-scale business applications. 
+
+* **Domain Expertise:** Deep experience in **Banking & Fintech**, production POS (onPOS360), ERP, HRM/HCM, and CRM platforms.
+* **Core Tech:** Specializing in robust **.NET backends** (`.NET 6–10`, `ASP.NET Core`, `EF Core`) paired with modern **Next.js & React** frontends.
+* **Impact:** Proven track record leading agile teams, conducting code reviews, driving client communications, and engineering performance-tuned SQL databases for enterprise client success.
+* **Background:** Former experience in Power Apps and SAP S/4HANA ERP conversions. Holds a **BSc (Hons) in Computing** from Coventry University *(3.6 GPA, Upper Second-Class)*.
 
 ---
 
+### **Tech Stack & Capabilities**
 
+| Domain | Technologies & Skills |
+| :--- | :--- |
+| **Backend** | `C#` • `ASP.NET Core` • `ADO.NET` • `Entity Framework Core` • `REST APIs` • `JWT` • `Node.js` |
+| **Frontend** | `TypeScript` • `Next.js` • `React` • `Redux` • `Tailwind CSS` • `WPF` • `WinForms` |
+| **Databases** | `Microsoft SQL Server` • `PostgreSQL` • `MySQL` • `MongoDB` |
+| **Domains** | `POS` • `ERP` • `Banking Systems` • `HRM / HCM` • `CRM` |
+| **Practices** | `Agile Leadership` • `SRS / User Stories` • `Code Reviews` • `Client Relations` |
+| **Tools** | `Visual Studio` • `Git / GitHub / Bitbucket` • `Jira` • `ClickUp` • `Postman` • `Figma` |
+
+---
+
+<div align="center">
+  <i>Open to technical collaborations and engineering opportunities. Feel free to connect!</i>
+</div>
