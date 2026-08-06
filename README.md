@@ -31,7 +31,7 @@ Full-Stack Software Engineer and Technical Project Lead with **3+ years of exper
 | **Backend** | `C#` • `ASP.NET Core` • `ADO.NET` • `Entity Framework Core` • `REST APIs` • `JWT` • `Node.js` |
 | **Frontend** | `TypeScript` • `Next.js` • `React` • `Redux` • `Tailwind CSS` • `WPF` • `WinForms` |
 | **Databases** | `Microsoft SQL Server` • `PostgreSQL` • `MySQL` • `MongoDB` |
-| **Domains** | `POS` • `ERP` • `Banking Systems` • `HRM / HCM` • `CRM` |
+| **Domains** | `POS` • `ERP` • `Enterprise Systems` • `HRM / HCM` • `CRM` |
 | **Practices** | `Agile Leadership` • `SRS / User Stories` • `Code Reviews` • `Client Relations` |
 | **Tools** | `Visual Studio` • `Git / GitHub / Bitbucket` • `Jira` • `ClickUp` • `Postman` • `Figma` |
 
