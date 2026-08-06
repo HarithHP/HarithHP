@@ -35,17 +35,21 @@ I specialize in **.NET backends** and **Next.js / React frontends**, with hands-
 ### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harithhp&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harithhp&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=harithhp&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harithhp&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Top languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=harithhp&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-<p align="center">
-  <sub>Open to opportunities in .NET, banking systems, and full-stack product engineering.</sub><br/>
-  <a href="mailto:hphadaragama@gmail.com">hphadaragama@gmail.com</a>
+  <img
+    src="https://streak-stats.demolab.com/?user=harithhp&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+  />
 </p>
