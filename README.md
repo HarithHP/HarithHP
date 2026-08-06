@@ -16,40 +16,34 @@
 
 Software engineer with **3+ years** building scalable web apps and enterprise systems — including **strong banking-domain experience**.
 
-I specialize in **.NET backends** and **Next.js / React frontends**, with hands-on delivery across roughly **6–10 applications** to date, including **WPS** and **WinForum**.
+I specialize in **.NET backends** and **Next.js / React frontends**.
+
+### About
+1. Full-stack engineer and project lead with **3+ years** shipping large-scale business systems.
+2. Core stack: **ASP.NET Core (.NET 6–10)**, **ADO.NET / EF Core**, **Next.js**, **React**, and **JWT-secured APIs**.
+3. At **App360**, I build and maintain production systems across **POS, ERP, HRM, and CRM** — including platforms like **onPOS360**.
+4. Strong in **banking and enterprise domains**, with delivery experience on systems such as **WPS** and **WinForum**.
+5. I design data access for performance: **SQL**, stored procedures, EF Core tuning, and ADO.NET where throughput matters.
+6. I lead agile delivery end-to-end — requirements, implementation, code reviews, deployment, and ongoing support.
+7. Comfortable with **local and international clients**, turning business needs into clear technical specs and shipping on time.
+8. Helped launch mobile products that reached **10,000+ downloads** on Google Play and the App Store.
+9. Earlier at **DIMO Lanka**, worked on Power Apps solutions and contributed to a **SAP S/4HANA** ERP conversion.
+10. **BSc (Hons) Computing** (Software Engineering) — Coventry University, Upper Second-Class (3.6 GPA).
+
 
 ---
 
 ### Focus
-
 | | |
 |---|---|
-| **Backend** | C#, ASP.NET Core, EF Core, ADO.NET, SQL, REST APIs |
-| **Frontend** | TypeScript, Next.js, React, Redux, Tailwind CSS |
-| **Databases** | MySQL, Microsoft SQL Server, PostgreSQL |
-| **Domain** | Banking & enterprise systems (WPS, WinForum) |
-| **Also** | Node.js, Java, Python, MongoDB |
+| **Backend** | C#, ASP.NET Core, ADO.NET, Entity Framework Core, JWT, REST APIs, Node.js |
+| **Frontend** | TypeScript, Next.js, React, Redux, Tailwind CSS, Windows Forms |
+| **Databases** | MySQL, Microsoft SQL Server, PostgreSQL, MongoDB |
+| **Domains** | POS (onPOS360), ERP, HRM/HCM, CRM, banking & enterprise systems |
+| **Practices** | Agile delivery, code reviews, SRS/user stories, client collaboration |
+| **Tools** | Git, GitHub, Bitbucket, Jira, ClickUp, Postman, Figma, Visual Studio |
+
 
 ---
 
-### GitHub
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=harithhp&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harithhp&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Top languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=harithhp&theme=tokyonight&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
