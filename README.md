@@ -21,8 +21,8 @@ I specialize in **.NET backends** and **Next.js / React frontends**.
 ### About
 1. Full-stack engineer and project lead with **3+ years** shipping large-scale business systems.
 2. Core stack: **ASP.NET Core (.NET 6–10)**, **ADO.NET / EF Core**, **Next.js**, **React**, and **JWT-secured APIs**.
-3. At **App360**, I build and maintain production systems across **POS, ERP, HRM, and CRM** — including platforms like **onPOS360**.
-4. Strong in **banking and enterprise domains**, with delivery experience on systems such as **WPS** and **WinForum**.
+3. At **My current Working Company**, I build and maintain production systems across **POS, ERP, HRM, and CRM**.
+4. Strong in **banking and enterprise domains**, with delivery experience on systems such as **WPF** and **WinForum**.
 5. I design data access for performance: **SQL**, stored procedures, EF Core tuning, and ADO.NET where throughput matters.
 6. I lead agile delivery end-to-end — requirements, implementation, code reviews, deployment, and ongoing support.
 7. Comfortable with **local and international clients**, turning business needs into clear technical specs and shipping on time.
