@@ -19,16 +19,7 @@ Software engineer with **3+ years** building scalable web apps and enterprise sy
 I specialize in **.NET backends** and **Next.js / React frontends**.
 
 ### About
-1. Full-stack engineer and project lead with **3+ years** shipping large-scale business systems.
-2. Core stack: **ASP.NET Core (.NET 6–10)**, **ADO.NET / EF Core**, **Next.js**, **React**, and **JWT-secured APIs**.
-3. At **My current Working Company**, I build and maintain production systems across **POS, ERP, HRM, and CRM**.
-4. Strong in **banking and enterprise domains**, with delivery experience on systems such as **WPF** and **WinForum**.
-5. I design data access for performance: **SQL**, stored procedures, EF Core tuning, and ADO.NET where throughput matters.
-6. I lead agile delivery end-to-end — requirements, implementation, code reviews, deployment, and ongoing support.
-7. Comfortable with **local and international clients**, turning business needs into clear technical specs and shipping on time.
-8. Helped launch mobile products that reached **10,000+ downloads** on Google Play and the App Store.
-9. Earlier at **DIMO Lanka**, worked on Power Apps solutions and contributed to a **SAP S/4HANA** ERP conversion.
-10. **BSc (Hons) Computing** (Software Engineering) — Coventry University, Upper Second-Class (3.6 GPA).
+Full-stack engineer and project lead with 3+ years building large-scale business systems on ASP.NET Core (.NET 6–10), ADO.NET / EF Core, Next.js, and React. Delivers production POS, ERP, HRM, CRM, and banking platforms (including WPF and WinForum), with performance-focused SQL and end-to-end agile leadership for local and international clients. Prior work on Power Apps and SAP S/4HANA ERP conversion; BSc (Hons) Computing, Coventry University (Upper Second-Class, 3.6 GPA).
 
 
 ---
