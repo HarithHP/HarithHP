@@ -18,7 +18,7 @@
 Full-Stack Software Engineer and Technical Project Lead with **3+ years of experience** architecting and delivering large-scale business applications. 
 
 * **Domain Expertise:** Deep experience in **Enterprise Application**, production POS, ERP, HRM/HCM, and CRM platforms.
-* **Core Tech:** Specializing in robust **.NET backends** (`.NET 6–10`, `ASP.NET Core`, `EF Core`) paired with modern **Next.js & React** frontends.
+* **Core Tech:** Specializing in robust **.NET backends** (`.NET 6–10`, `ASP.NET Core`, `EF Core`, `ADO.NET`) paired with modern **Next.js & React** frontends.
 * **Impact:** Proven track record leading agile teams, conducting code reviews, driving client communications, and engineering performance-tuned SQL databases for enterprise client success.
 * **Background:** Former experience in Power Apps and SAP S/4HANA ERP conversions. Holds a **BSc (Hons) in Computing** from Coventry University *(3.6 GPA, Upper Second-Class)*.
 
